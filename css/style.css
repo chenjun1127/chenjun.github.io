@@ -400,6 +400,7 @@ header {
     transition-duration: 0.2s;
     -webkit-transition-duration: 0.2s;
     margin-bottom: 10px;
+    margin-right: 10px;
 }
 
 .btnDownload:hover {
